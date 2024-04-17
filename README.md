@@ -1,16 +1,13 @@
-### Hi there 👋
+## Oi, eu sou o Leandro Captivo. 
 
-<!--
-**D4rkgh0stBR/D4rkgh0stBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/d4rkit0)
 
-Here are some ideas to get you started:
+![D4rkgh0stBR GitHub stats](https://github-readme-stats.vercel.app/api?username=D4rkgh0stBR&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Linguagens que eu uso no meu dia:
+
+<div style="display: inline_block">
+<img align+"center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
+</div><br/>
+
+### Cursando Programação de Jogos Digitais
