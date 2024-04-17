@@ -10,4 +10,6 @@
 <img align+"center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
 </div><br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4rkgh0stBR)](https://github.com/D4rkgh0stBR/github-readme-stats)
+
 ### Cursando Programação de Jogos Digitais. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="24px"></h1>
