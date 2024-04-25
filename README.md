@@ -1,6 +1,6 @@
 ## Oi, eu sou o Leandro Captivo. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="24px"></h1>
 
-[![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/d4rkit0)
+[![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/lcaptivo)
 
 ![D4rkgh0stBR GitHub stats](https://github-readme-stats.vercel.app/api?username=D4rkgh0stBR&show_icons=true&theme=radical)
 
