@@ -8,7 +8,8 @@
 ## Linguagens e Engines que uso:
 
 <div style="display: inline_block">
-<img align+"center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
+<img align+"center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img align+"center" alt="" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 </div><br/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4rkgh0stBR&layout=compact&langs_count=16&theme=radical"/>
